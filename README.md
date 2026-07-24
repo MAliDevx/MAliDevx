@@ -176,14 +176,14 @@ philosophy  : "Write clean code. Build scalable products. Solve real problems."
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nomidevo8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=60A5FA&text_color=c9d1d9" />&nbsp;&nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomidevo8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MAliDevx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=60A5FA&text_color=c9d1d9" />&nbsp;&nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAliDevx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=nomidevo8&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=F59E0B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8b949e" />
+  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=MAliDevx&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=F59E0B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8b949e" />
 </div>
 
 <br/>
