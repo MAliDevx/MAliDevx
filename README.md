@@ -1,233 +1,405 @@
-<!-- HEADER WAVE BANNER -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000,1a1a1a&text=Muhammad%20Ali&desc=MERN%20and%20MEAN%20Stack%20Developer%20-nl-%20Building%20SaaS%20Products%20and%20Business%20Solutions&descAlign=50&fontSize=50&fontAlignY=30&descAlignY=46&animation=scaleIn&descSize=18&strokeWidth=13&textBg=false&section=header&fontColor=FFFFFF&stroke=1e293b" />
-</div>
+# 👋 Hi, I'm Muhammad Ali
 
-<br/>
+### 🚀 MERN Stack Developer | React.js | Angular | Node.js
 
-<!-- TYPING SVG -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=130&lines=Building+systems+that+solve+real+problems+%F0%9F%9A%80;MERN+and+MEAN+Stack+Developer;Open+to+Freelance+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MAliDevx&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+
+<p>
+  <a href="https://github.com/MAliDevx">
+    <img src="https://img.shields.io/badge/GitHub-MAliDevx-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
-
-<br/>
-
----
-
-## `$ whoami`
-
-```yaml
-name        : Muhammad Ali
-title       : MERN & MEAN Stack Developer
-location    : Pakistan 🇵🇰
-specialty   : SaaS Applications • REST APIs • Scalable Web Platforms
-currently   : Building modern web applications with MongoDB, Express, Angular, React & Node.js
-available   : Open for Freelance, Remote & Long-Term Collaborations
-philosophy  : "Write clean code. Build scalable products. Solve real problems."
-```
-
-<br/>
-
+  <a href="https://www.linkedin.com/in/muhammad-alidevx/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://malidevx.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-malidevx.vercel.app-6E57E0?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:m13ali1000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-m13ali1000%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-# ⚡ Tech Arsenal
+I'm **Muhammad Ali**, a **MERN Stack Developer** with **3 years of professional experience** building modern, scalable, and user-focused web applications.
 
-<br/>
+I have worked with both **national and international clients**, contributing to real-world products across different domains. My experience includes developing responsive frontend applications, building backend APIs, integrating third-party services, and working closely with backend and mobile development teams.
+
+I enjoy turning complex requirements into clean, maintainable solutions and continuously improving my skills by exploring modern technologies and development practices.
+
+* 🔭 Currently working as a **MERN Stack Developer**
+* 💻 3+ years of professional development experience
+* ⚛️ Experienced in **React.js, Angular, and Next.js**
+* 🟢 Experienced in **Node.js, Express.js, and REST APIs**
+* 🍃 Experienced with **MongoDB** and relational databases
+* 🔐 Experience with **JWT Authentication, RBAC, and API Security**
+* 🌍 Worked with **national and international clients**
+* 🤝 Comfortable collaborating with frontend, backend, and mobile teams
+* 🧠 Passionate about clean architecture, reusable code, and problem solving
+* 🎓 BSCS 8th-semester student
+
+---
+
+## 🛠️ Tech Stack
 
 ### 🧠 Languages
 
-<img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/jQuery-1a1a2e?style=for-the-badge&logo=jquery&logoColor=0769AD" />
-
-<br/><br/>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ### 🎨 Frontend
 
-<img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Angular-1a1a2e?style=for-the-badge&logo=angular&logoColor=DD0031" />
-<img src="https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-1a1a2e?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Material_UI-1a1a2e?style=for-the-badge&logo=mui&logoColor=007FFF" />
-<img src="https://img.shields.io/badge/Angular_Material-1a1a2e?style=for-the-badge&logo=angular&logoColor=DD0031" />
-<img src="https://img.shields.io/badge/PrimeNG-1a1a2e?style=for-the-badge&logo=primeng&logoColor=DD0031" />
-<img src="https://img.shields.io/badge/Redux-1a1a2e?style=for-the-badge&logo=redux&logoColor=764ABC" />
-<img src="https://img.shields.io/badge/Redux_Toolkit-1a1a2e?style=for-the-badge&logo=redux&logoColor=764ABC" />
-<img src="https://img.shields.io/badge/RxJS-1a1a2e?style=for-the-badge&logo=reactivex&logoColor=B7178C" />
-<img src="https://img.shields.io/badge/NgRx-1a1a2e?style=for-the-badge&logo=ngrx&logoColor=BA2BD2" />
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge&logo=primeng&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
 
-<br/><br/>
+### ⚙️ Backend & CMS
 
-### ⚙️ Backend
-
-<img src="https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
-<img src="https://img.shields.io/badge/Express.js-1a1a2e?style=for-the-badge&logo=express&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/REST_API-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=00C7B7" />
-<img src="https://img.shields.io/badge/JWT-1a1a2e?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF" />
-
-<br/><br/>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
 ### 🗄️ Databases
 
-<img src="https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-</div>
+### 🔐 Authentication & Security
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bcrypt-003A70?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RBAC-6E57E0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CORS-FF6B35?style=for-the-badge&logoColor=white" />
+</p>
 
-## 📚 Additional Skills
+### 🧰 Tools & Other Technologies
 
-<div align="center">
-  <p><em>Technologies and tools I regularly use while building scalable applications.</em></p>
-
-  <img src="https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Cloudinary-1a1a2e?style=for-the-badge&logo=cloudinary&logoColor=3448C5" />
-  <img src="https://img.shields.io/badge/Stripe-1a1a2e?style=for-the-badge&logo=stripe&logoColor=635BFF" />
-  <img src="https://img.shields.io/badge/Socket.IO-1a1a2e?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Firebase-1a1a2e?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
-  <img src="https://img.shields.io/badge/API_Integration-1a1a2e?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/Playwright-1a1a2e?style=for-the-badge&logo=playwright&logoColor=2EAD33" />
-  <img src="https://img.shields.io/badge/Chart.js-1a1a2e?style=for-the-badge&logo=chartdotjs&logoColor=FF6384" />
-  <img src="https://img.shields.io/badge/Vite-1a1a2e?style=for-the-badge&logo=vite&logoColor=646CFF" />
-  <img src="https://img.shields.io/badge/Responsive_Design-1a1a2e?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/MVC_Architecture-1a1a2e?style=for-the-badge&logo=framework&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/RBAC-1a1a2e?style=for-the-badge&logo=auth0&logoColor=EB5424" />
-  <img src="https://img.shields.io/badge/Authentication-1a1a2e?style=for-the-badge&logo=auth0&logoColor=EB5424" />
-  <img src="https://img.shields.io/badge/WordPress-1a1a2e?style=for-the-badge&logo=wordpress&logoColor=21759B" />
-  <img src="https://img.shields.io/badge/Electron.js-1a1a2e?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
-
-</div>
-
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-<table width="100%">
+<table>
   <tr>
-    <td width="50%" valign="top" align="left">
-      <h3>✨ Voxenon — SaaS Platform 🌟</h3>
-      <blockquote><strong>Featured Product:</strong> Live SaaS product with a polished launch page, full app experience, and premium brand design.</blockquote>
-      <p><strong>Stack:</strong> <code>Next.js</code> <code>React</code> <code>TailwindCSS</code> <code>TypeScript</code> <code>Nest</code> <code>PostgresSQL</code></p>
-      ✅ Live SaaS product with working app flow<br/>
-      ✅ Landing page optimized for conversions<br/>
-      ✅ End-to-end production user experience<br/>
-      ✅ High Lighthouse score<br/>
-      ✅ Advanced analytics integration<br/>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="assets/voxenon-branding-image.png" alt="Voxenon SaaS landing platform preview" width="100%" style="border-radius:24px; box-shadow:0 24px 60px rgba(0,0,0,0.18); object-fit:cover;" />
-      <div style="margin-top:16px; text-align:center;">
-        <a href="https://voxenon-landing.vercel.app/" style="display:inline-block; padding:12px 20px; margin:0 8px 8px 0; border-radius:999px; background:#000; color:#fff; text-decoration:none; font-weight:700;">Landing Page →</a>
-        <a href="https://voxenon.vercel.app/" style="display:inline-block; padding:12px 20px; margin:0 0 8px 8px; border-radius:999px; background:#111; color:#A78BFA; text-decoration:none; font-weight:700;">App URL →</a><br/>
-        <a href="https://drive.google.com/file/d/1n9wMIvCOjMgthoCAKMGjsapwr3k-AqD-/view?usp=sharing" style="display:inline-block; padding:12px 20px; margin:8px 0 0 0; border-radius:999px; background:#1a1a1a; color:#A78BFA; text-decoration:none; font-weight:700;">Watch product video →</a>
-      </div>
-    </td>
+    <td width="50%" valign="top">
+
+### 🚀 ScalePilot
+
+**Instagram Outreach Automation & Sales Assistance Platform**
+
+Worked on a platform supporting multiple Instagram accounts and automated audience outreach.
+
+**Key Contributions:**
+
+* 🤖 Automated direct messaging using predefined templates
+* 👥 Audience-based outreach automation
+* 🔐 Instagram account authentication
+* 📱 Multi-account support
+* 🎙️ Contributed to a sales-assistance application for web and desktop
+* 💡 Real-time recommendations for sales conversations
+
+**Technologies:** `Angular` `React.js` `Node.js` `REST APIs`
+
+🔗 [Visit ScalePilot](https://www.scalepilot.de/)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Addvey
+
+**Admin Dashboard for OLX-Inspired Marketplace**
+
+Developed and maintained a fully functional admin panel for managing core marketplace operations.
+
+**Key Contributions:**
+
+* 👤 User management
+* 📦 Product management
+* 📈 Real-time analytics and interactive charts
+* 🔄 Application workflow management
+* 🔗 Backend API integration
+* 📱 Collaboration with backend and mobile teams
+* 🗃️ Data consistency across application workflows
+
+**Technologies:** `Angular` `REST APIs` `Charts`
+
+🔗 [Visit Addvey Admin](https://admin.addvey.com/)
+
+</td>
   </tr>
+
   <tr>
-   <tr>
-  <td width="50%" valign="top" align="left">
-    <h3>🚀 ScalePilot - Instagram Outreach Automation</h3>
-    <blockquote>Instagram outreach automation platform supporting multiple accounts and automated audience engagement.</blockquote>
-    <p><strong>Live:</strong> <a href="https://www.scalepilot.de/">https://www.scalepilot.de/</a></p>
-    <p><strong>Stack:</strong> <code>Angular</code> <code>React.js</code> <code>Node.js</code> <code>REST APIs</code></p>
-    ✅ Multi-account Instagram automation<br/>
-    ✅ Automated direct messaging using predefined templates<br/>
-    ✅ Instagram account authentication<br/>
-    ✅ Audience-based outreach automation<br/>
-    ✅ Real-time sales assistance and recommendations
-  </td>
+    <td width="50%" valign="top">
 
-  <td width="50%" valign="top" align="left">
-    <h3>📊 Addvey - Admin Dashboard</h3>
-    <blockquote>Full-featured admin panel for an OLX-inspired marketplace platform with user, product, and analytics management.</blockquote>
-    <p><strong>Live:</strong> <a href="https://admin.addvey.com/">https://admin.addvey.com/</a></p>
-    <p><strong>Stack:</strong> <code>Angular</code> <code>REST APIs</code> <code>Charts</code></p>
-    ✅ User and product management<br/>
-    ✅ Real-time analytics and interactive charts<br/>
-    ✅ Application workflow management<br/>
-    ✅ Backend and mobile app integration<br/>
-    ✅ Data consistency and API integration
-  </td>
+### 🔐 WordPress Client Portal
 
+**Role-Based Client Management System**
+
+A client management platform built with WordPress and custom PHP development.
+
+**Key Features:**
+
+* 🔑 Role-based access control
+* 📊 Custom admin dashboards
+* 🔐 Secure authentication system
+* 👥 Multi-client support
+* ⚙️ Custom WordPress functionality
+
+**Technologies:** `WordPress` `PHP` `MySQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔌 REST API Backend System
+
+**Scalable Backend API with Secure Authentication**
+
+A backend system designed with RESTful API architecture and secure authentication.
+
+**Key Features:**
+
+* 🔐 JWT authentication
+* ♻️ Access and refresh token flow
+* 🛠️ Full CRUD operations
+* 🧩 Middleware architecture
+* 🛡️ API validation
+* 🚦 Rate limiting
+
+**Technologies:** `Node.js` `Express.js` `JWT` `MySQL`
+
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+### 🌐 Full Stack Web Application
+
+**End-to-End Web Application**
+
+A full-stack application combining a dynamic frontend with backend API integration and relational database management.
+
+**Key Features:**
+
+* 🔗 RESTful API integration
+* 📱 Responsive dynamic UI
+* 🗄️ Relational database management
+* 🔄 State management
+* ⚡ Full-stack application architecture
+
+**Technologies:** `Next.js` `Laravel` `MySQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌟 i-Solutions Agency Website
+
+**Modern Digital Services Agency Website**
+
+A modern, responsive single-page website designed and developed for a digital services brand.
+
+🔗 [Visit Website](https://agency.i-solutions.pro/)
+
+**Key Features:**
+
+* 🎨 Clean and modern agency UI
+* 📱 Fully responsive layout
+* 🧩 Brand-focused design system
+* ⚡ Fast and optimized frontend
+* 🚀 Production deployment
+
+**Technologies:** `HTML` `CSS` `JavaScript` `Responsive Design`
+
+</td>
+  </tr>
 </table>
 
-<div align="center" style="margin-top:28px; padding:24px; border-radius:24px; background:#0f172a; box-shadow:0 24px 70px rgba(15,23,42,0.25);">
-  <a href="https://malidevx.vercel.app/" style="font-size:18px; font-weight:700; color:#e2e8f0; text-decoration:none;">
-    See more case studies & portfolio work →
-  </a>
-</div>
-  </tr>
-</table>
+---
 
-<br/>
+# 💼 Professional Experience
+
+### 🚀 Angular & React.js Developer — ScalePilot
+
+**Remote · Germany | December 2023 – Present**
+
+Worked on modern web applications involving automation, sales assistance, and real-time user experiences.
+
+**Key Contributions:**
+
+* Developed features for an Instagram outreach automation platform supporting multiple accounts.
+* Implemented automated direct messaging workflows using predefined templates.
+* Worked with authentication flows for Instagram user accounts.
+* Contributed to a sales-assistance application available across web and desktop environments.
+* Worked on functionality that listens to speaker and system audio.
+* Contributed to real-time recommendations designed to assist users during sales conversations.
+* Collaborated on scalable and user-focused application features.
+
+🔗 [ScalePilot](https://www.scalepilot.de/)
 
 ---
 
-## 📊 GitHub Stats
+# 🧠 Architecture & Development Practices
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MAliDevx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=60A5FA&text_color=c9d1d9" />&nbsp;&nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAliDevx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
-</div>
+I focus on building applications that are:
 
-<br/>
+* 🧩 **Modular** — Reusable and well-organized components
+* ♻️ **Maintainable** — Clean and understandable code
+* 📈 **Scalable** — Designed to grow with business requirements
+* 🔐 **Secure** — Authentication, authorization, validation, and secure APIs
+* ⚡ **Performant** — Optimized rendering and efficient API communication
+* 🧪 **Testable** — Structured for easier debugging and testing
 
-<div align="center">
-  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=MAliDevx&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=F59E0B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8b949e" />
-</div>
+### Backend Architecture
 
-<br/>
+```text
+Client
+   │
+   ▼
+Routes
+   │
+   ▼
+Middleware
+   │
+   ├── Authentication
+   ├── Authorization
+   └── Validation
+   │
+   ▼
+Controllers
+   │
+   ▼
+Services
+   │
+   ▼
+Models / Repository
+   │
+   ▼
+Database
+```
+
+### Development Principles
+
+* MVC & Layered Architecture
+* RESTful API Design
+* Reusable Components
+* Centralized Error Handling
+* Input Validation
+* JWT Authentication
+* Role-Based Access Control
+* API Security
+* Clean Code
+* Responsive Design
+* Performance Optimization
 
 ---
 
-## 📬 Let's Connect
+# 📊 GitHub Statistics
 
 <div align="center">
-  <a href="mailto:m13ali1000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-m13ali1000@gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/MAliDevx">
-    <img src="https://img.shields.io/badge/GitHub-MAliDevx-1a1a2e?style=for-the-badge&logo=github&logoColor=ffffff" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-alidevx/">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Ali-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  &nbsp;
-  <a href="https://malidevx.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-malidevx.vercel.app-1a1a2e?style=for-the-badge&logo=vercel&logoColor=ffffff" />
-  </a>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MAliDevx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=60A5FA&text_color=c9d1d9" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAliDevx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
+
 </div>
 
 <br/>
+
+<div align="center">
+
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=MAliDevx&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=F59E0B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8b949e" />
+
+</div>
 
 ---
 
+# 📈 Currently Exploring
+
+I'm continuously improving my skills and exploring technologies that help me build better software.
+
+* ⚡ Advanced React & Angular patterns
+* 🟢 Advanced Node.js architecture
+* 🏗️ Scalable backend systems
+* ☁️ Cloud deployment and infrastructure
+* 🐳 Docker and containerization
+* 🧠 AI-powered application development
+* 🔄 Real-time applications
+* 📊 Performance optimization
+* 🔐 Advanced application security
+
+---
+
+# 🤝 Let's Connect
+
+I'm always open to discussing **software development, interesting projects, collaboration opportunities, and new technologies**.
+
 <div align="center">
 
-### 💬 Developer Philosophy
+<a href="mailto:m13ali1000@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-m13ali1000%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-*"I don't just write code — I build systems that solve real business problems."*
+<a href="https://github.com/MAliDevx">
+  <img src="https://img.shields.io/badge/GitHub-MAliDevx-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br/>
+<a href="https://www.linkedin.com/in/muhammad-alidevx/">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=MAliDevx&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS" />
+<a href="https://malidevx.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-malidevx.vercel.app-6E57E0?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </div>
 
 <br/>
 
-<!-- FOOTER WAVE -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+### 💙 Thanks for visiting my profile!
+
+**Let's build something amazing together. 🚀**
+
 </div>
+
+---
