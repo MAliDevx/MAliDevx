@@ -1,6 +1,6 @@
 <!-- HEADER WAVE BANNER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000,1a1a1a&text=Nomi%20Developer&desc=Full%20Stack%20Developer%20-nl-%20WordPress%20Engineer%20%E2%80%A2%20Shopify%20Theme%20Customization%20-nl-%20Building%20SaaS%20Products%20and%20Business%20Solutions&descAlign=50&fontSize=50&fontAlignY=30&descAlignY=46&animation=scaleIn&descSize=18&strokeWidth=13&textBg=false&section=header&fontColor=FFFFFF&stroke=1e293b" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000,1a1a1a&text=Muhammad%20Ali&desc=MERN%20and%20MEAN%20Stack%20Developer%20-nl-%20Building%20SaaS%20Products%20and%20Business%20Solutions&descAlign=50&fontSize=50&fontAlignY=30&descAlignY=46&animation=scaleIn&descSize=18&strokeWidth=13&textBg=false&section=header&fontColor=FFFFFF&stroke=1e293b" />
 </div>
 
 <br/>
@@ -8,7 +8,7 @@
 <!-- TYPING SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=130&lines=Building+systems+that+solve+real+problems+%F0%9F%9A%80;WordPress+%7C+Shopify+%7C+PHP+%7C+Laravel;Open+to+Freelance+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=130&lines=Building+systems+that+solve+real+problems+%F0%9F%9A%80;MERN+and+MEAN+Stack+Developer;Open+to+Freelance+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,12 +19,13 @@
 ## `$ whoami`
 
 ```yaml
-name        : Nauman Sajjad
-role        : Full Stack & WordPress Developer
+name        : Muhammad Ali
+title       : MERN & MEAN Stack Developer
 location    : Pakistan 🇵🇰
-focus       : Scalable web systems, APIs & business automation
-available   : Open to freelance & remote opportunities
-mindset     : "Don't just write code — build systems that solve real problems."
+specialty   : SaaS Applications • REST APIs • Scalable Web Platforms
+currently   : Building modern web applications with MongoDB, Express, Angular, React & Node.js
+available   : Open for Freelance, Remote & Long-Term Collaborations
+philosophy  : "Write clean code. Build scalable products. Solve real problems."
 ```
 
 <br/>
@@ -34,58 +35,78 @@ mindset     : "Don't just write code — build systems that solve real problems.
 
 <div align="center">
 
-## ⚡ Tech Arsenal
+# ⚡ Tech Arsenal
 
 <br/>
 
-**🧠 Languages**
+### 🧠 Languages
 
-<img src="https://img.shields.io/badge/PHP-1a1a2e?style=for-the-badge&logo=php&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/jQuery-1a1a2e?style=for-the-badge&logo=jquery&logoColor=78DBFF" />
-<img src="https://img.shields.io/badge/Liquid-1a1a2e?style=for-the-badge&logo=shopify&logoColor=96BF48" />
+<img src="https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/jQuery-1a1a2e?style=for-the-badge&logo=jquery&logoColor=0769AD" />
 
+<br/><br/>
 
+### 🎨 Frontend
 
-**🎨 Frontend**
+<img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Angular-1a1a2e?style=for-the-badge&logo=angular&logoColor=DD0031" />
+<img src="https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-1a1a2e?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Material_UI-1a1a2e?style=for-the-badge&logo=mui&logoColor=007FFF" />
+<img src="https://img.shields.io/badge/Angular_Material-1a1a2e?style=for-the-badge&logo=angular&logoColor=DD0031" />
+<img src="https://img.shields.io/badge/PrimeNG-1a1a2e?style=for-the-badge&logo=primeng&logoColor=DD0031" />
+<img src="https://img.shields.io/badge/Redux-1a1a2e?style=for-the-badge&logo=redux&logoColor=764ABC" />
+<img src="https://img.shields.io/badge/Redux_Toolkit-1a1a2e?style=for-the-badge&logo=redux&logoColor=764ABC" />
+<img src="https://img.shields.io/badge/RxJS-1a1a2e?style=for-the-badge&logo=reactivex&logoColor=B7178C" />
+<img src="https://img.shields.io/badge/NgRx-1a1a2e?style=for-the-badge&logo=ngrx&logoColor=BA2BD2" />
 
-<img src="https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<br/><br/>
 
+### ⚙️ Backend
 
-**⚙️ Backend & CMS**
+<img src="https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+<img src="https://img.shields.io/badge/Express.js-1a1a2e?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/REST_API-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=00C7B7" />
+<img src="https://img.shields.io/badge/JWT-1a1a2e?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF" />
 
-<img src="https://img.shields.io/badge/Laravel-1a1a2e?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
-<img src="https://img.shields.io/badge/WordPress-1a1a2e?style=for-the-badge&logo=wordpress&logoColor=21BDDB" />
-<img src="https://img.shields.io/badge/Shopify-1a1a2e?style=for-the-badge&logo=shopify&logoColor=96BF48" />
+<br/><br/>
 
+### 🗄️ Databases
 
-
-**🗄️ Databases**
-
+<img src="https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=47A248" />
 <img src="https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/PostgresSql-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
 
 </div>
 
 <br/>
 
-
-## 📚 Extra Mid-Level Skills
+## 📚 Additional Skills
 
 <div align="center">
-  <p><em>Additional technologies in active development & experimentation</em></p>
-  
-  <img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-1a1a2e?style=for-the-badge&logo=vue.js&logoColor=3AB795" />
-  <img src="https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=4ADE80" />
-  <img src="https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
+  <p><em>Technologies and tools I regularly use while building scalable applications.</em></p>
+
+  <img src="https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Cloudinary-1a1a2e?style=for-the-badge&logo=cloudinary&logoColor=3448C5" />
+  <img src="https://img.shields.io/badge/Stripe-1a1a2e?style=for-the-badge&logo=stripe&logoColor=635BFF" />
+  <img src="https://img.shields.io/badge/Socket.IO-1a1a2e?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Firebase-1a1a2e?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/API_Integration-1a1a2e?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/Playwright-1a1a2e?style=for-the-badge&logo=playwright&logoColor=2EAD33" />
+  <img src="https://img.shields.io/badge/Chart.js-1a1a2e?style=for-the-badge&logo=chartdotjs&logoColor=FF6384" />
+  <img src="https://img.shields.io/badge/Vite-1a1a2e?style=for-the-badge&logo=vite&logoColor=646CFF" />
+  <img src="https://img.shields.io/badge/Responsive_Design-1a1a2e?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/MVC_Architecture-1a1a2e?style=for-the-badge&logo=framework&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/RBAC-1a1a2e?style=for-the-badge&logo=auth0&logoColor=EB5424" />
+  <img src="https://img.shields.io/badge/Authentication-1a1a2e?style=for-the-badge&logo=auth0&logoColor=EB5424" />
+  <img src="https://img.shields.io/badge/WordPress-1a1a2e?style=for-the-badge&logo=wordpress&logoColor=21759B" />
+  <img src="https://img.shields.io/badge/Electron.js-1a1a2e?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
+
 </div>
 
 <br/>
-
 
 ---
 
@@ -113,50 +134,35 @@ mindset     : "Don't just write code — build systems that solve real problems.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" align="left">
-      <h3>🔐 WordPress Client Portal</h3>
-      <blockquote>Role-based client management system built on WordPress.</blockquote>
-      <p><strong>Stack:</strong> <code>WordPress</code> <code>PHP</code> <code>MySQL</code></p>
-      ✅ Role-based access control<br/>
-      ✅ Custom admin dashboards<br/>
-      ✅ Secure authentication system<br/>
-      ✅ Multi-client support
-    </td>
-    <td width="50%" valign="top" align="left">
-      <h3>🔌 REST API Backend System</h3>
-      <blockquote>Scalable backend API with secure JWT authentication.</blockquote>
-      <p><strong>Stack:</strong> <code>Express</code> <code>JWT</code> <code>MySQL</code></p>
-      ✅ Auth system with token refresh<br/>
-      ✅ Full CRUD endpoints<br/>
-      ✅ Middleware architecture<br/>
-      ✅ Rate limiting & validation
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="left">
-      <h3>🌐 Full Stack Web App</h3>
-      <blockquote>End-to-end app with dynamic frontend and backend integration.</blockquote>
-      <p><strong>Stack:</strong> <code>Next.js</code> <code>MySQL</code> <code>Laravel</code></p>
-      ✅ RESTful API integration<br/>
-      ✅ Responsive dynamic UI<br/>
-      ✅ Relational database management<br/>
-      ✅ State management
-    </td>
-     <td width="50%" valign="top" align="left">
-      <h3>🌟 i-Solutions Agency Website</h3>
-      <blockquote>Single-page agency website design and build for a modern digital services brand.</blockquote>
-      <p><strong>Live:</strong> <a href="https://agency.i-solutions.pro/">https://agency.i-solutions.pro/</a></p>
-      <p><strong>Stack:</strong> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Responsive Design</code></p>
-      ✅ Clean modern agency UI<br/>
-      ✅ Responsive single-page layout<br/>
-      ✅ Brand-focused design system<br/>
-      ✅ Fast deployment and polish
-    </td>
+   <tr>
+  <td width="50%" valign="top" align="left">
+    <h3>🚀 ScalePilot - Instagram Outreach Automation</h3>
+    <blockquote>Instagram outreach automation platform supporting multiple accounts and automated audience engagement.</blockquote>
+    <p><strong>Live:</strong> <a href="https://www.scalepilot.de/">https://www.scalepilot.de/</a></p>
+    <p><strong>Stack:</strong> <code>Angular</code> <code>React.js</code> <code>Node.js</code> <code>REST APIs</code></p>
+    ✅ Multi-account Instagram automation<br/>
+    ✅ Automated direct messaging using predefined templates<br/>
+    ✅ Instagram account authentication<br/>
+    ✅ Audience-based outreach automation<br/>
+    ✅ Real-time sales assistance and recommendations
+  </td>
+
+  <td width="50%" valign="top" align="left">
+    <h3>📊 Addvey - Admin Dashboard</h3>
+    <blockquote>Full-featured admin panel for an OLX-inspired marketplace platform with user, product, and analytics management.</blockquote>
+    <p><strong>Live:</strong> <a href="https://admin.addvey.com/">https://admin.addvey.com/</a></p>
+    <p><strong>Stack:</strong> <code>Angular</code> <code>REST APIs</code> <code>Charts</code></p>
+    ✅ User and product management<br/>
+    ✅ Real-time analytics and interactive charts<br/>
+    ✅ Application workflow management<br/>
+    ✅ Backend and mobile app integration<br/>
+    ✅ Data consistency and API integration
+  </td>
 
 </table>
 
 <div align="center" style="margin-top:28px; padding:24px; border-radius:24px; background:#0f172a; box-shadow:0 24px 70px rgba(15,23,42,0.25);">
-  <a href="https://naumansajjad.infy.uk" style="font-size:18px; font-weight:700; color:#e2e8f0; text-decoration:none;">
+  <a href="https://malidevx.vercel.app/" style="font-size:18px; font-weight:700; color:#e2e8f0; text-decoration:none;">
     See more case studies & portfolio work →
   </a>
 </div>
@@ -187,24 +193,20 @@ mindset     : "Don't just write code — build systems that solve real problems.
 ## 📬 Let's Connect
 
 <div align="center">
-  <a href="mailto:nomideveloper628@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-nomideveloper628@gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  <a href="mailto:m13ali1000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-m13ali1000@gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/noman-sajjad-infy">
-    <img src="https://img.shields.io/badge/LinkedIn-https://naumansajjad.infy.uk-1a1a2e?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+  <a href="https://github.com/MAliDevx">
+    <img src="https://img.shields.io/badge/GitHub-MAliDevx-1a1a2e?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
   &nbsp;
-  <a href="https://naumansajjad.infy.uk">
-    <img src="https://img.shields.io/badge/Portfolio-https://naumansajjad.infy.uk-1a1a2e?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+  <a href="https://www.linkedin.com/in/muhammad-alidevx/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Ali-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   &nbsp;
-  <a href="https://profiles.wordpress.org/nomidevo/">
-    <img src="https://img.shields.io/badge/WordPress-Profile-1a1a2e?style=for-the-badge&logo=wordpress&logoColor=21BDDB" />
-  </a>
-  &nbsp;
-  <a href="https://gravatar.com/nomideveloper628">
-    <img src="https://img.shields.io/badge/Gravatar-nomideveloper628-1a1a2e?style=for-the-badge&logo=gravatar&logoColor=1E8CBE" />
+  <a href="https://malidevx.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-malidevx.vercel.app-1a1a2e?style=for-the-badge&logo=vercel&logoColor=ffffff" />
   </a>
 </div>
 
@@ -220,8 +222,7 @@ mindset     : "Don't just write code — build systems that solve real problems.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=nomidevo8&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS" />
-
+<img src="https://komarev.com/ghpvc/?username=MAliDevx&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
 <br/>
